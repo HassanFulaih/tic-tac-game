@@ -1,16 +1,5 @@
-# tic
+Tic Tac Toe Game, simple game build using flutter
 
-A new Flutter project.
+![Screen Shot 2021-10-08 at 2 10 08 PM](https://user-images.githubusercontent.com/42120995/136546721-0f12ee81-d74c-435e-b9c5-58b1188feed6.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screen Shot 2021-10-08 at 2 10 26 PM](https://user-images.githubusercontent.com/42120995/136546735-b5fd306b-1af4-4b98-a718-ff1c96ecb9ec.png)
